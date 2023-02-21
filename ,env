@@ -1,0 +1,5 @@
+# fill in the ... below.  Go to Data/Storage Tab, on your account webpage https://app.cyclic.sh/#/app/
+CYCLIC_URL=https://lime-scallop-tutu.cyclic.app
+CYCLIC_DB=lime-scallop-tutuCyclicDB
+CYCLIC_BUCKET_NAME=cyclic-lime-scallop-tutu-ap-southeast-1
+CYCLIC_APP_ID=lime-scallop-tutu
